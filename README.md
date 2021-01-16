@@ -20,5 +20,5 @@
 ## Results
 
 * [Objective 1](https://github.com/GR8505/World_Weather_Analysis/blob/master/Images/WeatherPy_travel_map_markers.png)
-* [Objective 2]()
+* ![Objective 2](https://github.com/GR8505/World_Weather_Analysis/blob/master/Images/WeatherPy_vacation_map.png)
 * [Objective 3](https://github.com/GR8505/World_Weather_Analysis/blob/master/Images/WeatherPy_travel_map.png)
