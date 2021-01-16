@@ -1,7 +1,9 @@
 # World Weather Analysis
 
 ![](https://github.com/GR8505/World_Weather_Analysis/blob/master/Images/4u38jk.gif)
-![](https://github.com/GR8505/World_Weather_Analysis/blob/master/Images/NHT.png)    |![](https://github.com/GR8505/World_Weather_Analysis/blob/master/Images/SHT.png)
+
+----------------------------------------------------------------------------------|-----------------------------------------------------
+![](https://github.com/GR8505/World_Weather_Analysis/blob/master/Images/NHT.png)  |![](https://github.com/GR8505/World_Weather_Analysis/blob/master/Images/SHT.png)
 
 ------------------------------------------------------------------------------------
 ## Objectives
