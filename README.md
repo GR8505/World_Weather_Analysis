@@ -1,4 +1,7 @@
 # World Weather Analysis
+
+![]()
+
 ------------------------------------------------------------------------------------
 ## Objectives
 1. Create a weather description to the pop-up markers for customers so that they know 
