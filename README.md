@@ -1,6 +1,6 @@
 # World Weather Analysis
 
-![]()
+![](https://github.com/GR8505/World_Weather_Analysis/blob/master/Images/4u38jk.gif)
 
 ------------------------------------------------------------------------------------
 ## Objectives
@@ -18,3 +18,7 @@
 * citypy
 -----------------------------------------------------------------------------------
 ## Results
+
+Objective 1
+Objective 2
+Objective 3
